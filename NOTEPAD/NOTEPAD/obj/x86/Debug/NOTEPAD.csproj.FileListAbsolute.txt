@@ -1,0 +1,18 @@
+c:\users\home1\documents\visual studio 2010\Projects\NOTEPAD\NOTEPAD\bin\Debug\NOTEPAD.exe
+c:\users\home1\documents\visual studio 2010\Projects\NOTEPAD\NOTEPAD\bin\Debug\NOTEPAD.pdb
+c:\users\home1\documents\visual studio 2010\Projects\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.Form1.resources
+c:\users\home1\documents\visual studio 2010\Projects\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.Properties.Resources.resources
+c:\users\home1\documents\visual studio 2010\Projects\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.exe
+c:\users\home1\documents\visual studio 2010\Projects\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.pdb
+C:\Users\home1\Documents\Visual Studio 2010\Projects\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.csprojResolveAssemblyReference.cache
+C:\Users\home1\Documents\Visual Studio 2010\Projects\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.csproj.GenerateResource.Cache
+C:\Users\home1\Documents\Visual Studio 2010\Projects\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.Form2.resources
+C:\Users\home1\Documents\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.exe
+C:\Users\home1\Documents\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.pdb
+C:\Users\home1\Documents\NOTEPAD\NOTEPAD\bin\Debug\NOTEPAD.exe
+C:\Users\home1\Documents\NOTEPAD\NOTEPAD\bin\Debug\NOTEPAD.pdb
+C:\Users\home1\Documents\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.csprojResolveAssemblyReference.cache
+C:\Users\home1\Documents\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.Form1.resources
+C:\Users\home1\Documents\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.Form2.resources
+C:\Users\home1\Documents\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.Properties.Resources.resources
+C:\Users\home1\Documents\NOTEPAD\NOTEPAD\obj\x86\Debug\NOTEPAD.csproj.GenerateResource.Cache

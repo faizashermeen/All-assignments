@@ -1,0 +1,7 @@
+c:\users\home1\documents\visual studio 2010\Projects\stream_filling\stream_filling\bin\Debug\stream_filling.exe
+c:\users\home1\documents\visual studio 2010\Projects\stream_filling\stream_filling\bin\Debug\stream_filling.pdb
+c:\users\home1\documents\visual studio 2010\Projects\stream_filling\stream_filling\obj\x86\Debug\stream_filling.Form1.resources
+c:\users\home1\documents\visual studio 2010\Projects\stream_filling\stream_filling\obj\x86\Debug\stream_filling.Properties.Resources.resources
+c:\users\home1\documents\visual studio 2010\Projects\stream_filling\stream_filling\obj\x86\Debug\stream_filling.csproj.GenerateResource.Cache
+c:\users\home1\documents\visual studio 2010\Projects\stream_filling\stream_filling\obj\x86\Debug\stream_filling.exe
+c:\users\home1\documents\visual studio 2010\Projects\stream_filling\stream_filling\obj\x86\Debug\stream_filling.pdb

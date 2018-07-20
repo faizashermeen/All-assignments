@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOTEPAD", "NOTEPAD\NOTEPAD.csproj", "{E8772774-7DF2-40A6-B04B-8C62DC5C078A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "replace", "replace\replace.csproj", "{8EB8C9E4-E862-4B3A-8CBA-A36975EDFE14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{97CDF00F-161C-4764-A442-48DD84694626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8772774-7DF2-40A6-B04B-8C62DC5C078A}.Debug|x86.ActiveCfg = Debug|x86
+		{E8772774-7DF2-40A6-B04B-8C62DC5C078A}.Debug|x86.Build.0 = Debug|x86
+		{E8772774-7DF2-40A6-B04B-8C62DC5C078A}.Release|x86.ActiveCfg = Release|x86
+		{E8772774-7DF2-40A6-B04B-8C62DC5C078A}.Release|x86.Build.0 = Release|x86
+		{8EB8C9E4-E862-4B3A-8CBA-A36975EDFE14}.Debug|x86.ActiveCfg = Debug|x86
+		{8EB8C9E4-E862-4B3A-8CBA-A36975EDFE14}.Debug|x86.Build.0 = Debug|x86
+		{8EB8C9E4-E862-4B3A-8CBA-A36975EDFE14}.Release|x86.ActiveCfg = Release|x86
+		{8EB8C9E4-E862-4B3A-8CBA-A36975EDFE14}.Release|x86.Build.0 = Release|x86
+		{97CDF00F-161C-4764-A442-48DD84694626}.Debug|x86.ActiveCfg = Debug|x86
+		{97CDF00F-161C-4764-A442-48DD84694626}.Debug|x86.Build.0 = Debug|x86
+		{97CDF00F-161C-4764-A442-48DD84694626}.Release|x86.ActiveCfg = Release|x86
+		{97CDF00F-161C-4764-A442-48DD84694626}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

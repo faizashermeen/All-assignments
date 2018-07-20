@@ -1,0 +1,9 @@
+C:\Users\home1\documents\visual studio 2010\Projects\filling1\filling1\bin\Debug\filling1.exe
+C:\Users\home1\documents\visual studio 2010\Projects\filling1\filling1\bin\Debug\filling1.pdb
+C:\Users\home1\documents\visual studio 2010\Projects\filling1\filling1\obj\x86\Debug\filling1.Form1.resources
+C:\Users\home1\documents\visual studio 2010\Projects\filling1\filling1\obj\x86\Debug\filling1.Properties.Resources.resources
+C:\Users\home1\documents\visual studio 2010\Projects\filling1\filling1\obj\x86\Debug\filling1.csproj.GenerateResource.Cache
+C:\Users\home1\documents\visual studio 2010\Projects\filling1\filling1\obj\x86\Debug\filling1.exe
+C:\Users\home1\documents\visual studio 2010\Projects\filling1\filling1\obj\x86\Debug\filling1.pdb
+C:\Users\home1\documents\visual studio 2010\Projects\filling1\filling1\obj\x86\Debug\filling1.copy.resources
+C:\Users\home1\documents\visual studio 2010\Projects\filling1\filling1\obj\x86\Debug\filling1.delete.resources

@@ -1,0 +1,12 @@
+C:\Users\home1\Documents\Visual Studio 2010\Projects\NOTEPAD\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\home1\Documents\Visual Studio 2010\Projects\NOTEPAD\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\home1\Documents\Visual Studio 2010\Projects\NOTEPAD\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\home1\Documents\Visual Studio 2010\Projects\NOTEPAD\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\home1\Documents\Visual Studio 2010\Projects\NOTEPAD\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\home1\Documents\Visual Studio 2010\Projects\NOTEPAD\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\home1\Documents\NOTEPAD\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\home1\Documents\NOTEPAD\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\home1\Documents\NOTEPAD\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\home1\Documents\NOTEPAD\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\home1\Documents\NOTEPAD\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\home1\Documents\NOTEPAD\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
